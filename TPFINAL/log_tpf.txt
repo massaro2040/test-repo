@@ -1,0 +1,8 @@
+Se ha intentado crear una tabla existente en ferreteria_db.db db_codo.py 1 2023-06-29 16:42:15.788081
+Se ha intentado crear una tabla existente en ferreteria_db.db desde  db_codo.py 1 2023-06-29 16:43:50.663603
+Se ha intentado crear una tabla existente en ferreteria_db.db desde  db_codo.py 1 2023-06-29 16:44:19.118193
+Se ha intentado crear una tabla existente en ferreteria_db.db desde  db_codo.py 1 2023-06-29 16:48:44.001810
+Se ha intentado crear una tabla existente en ferreteria_db.db desde  db_codo.py 1 2023-06-29 16:53:44.981722
+Se ha intentado crear una tabla existente en ferreteria_db.db desde  db_codo.py 1 2023-06-29 16:54:41.328593
+Se ha intentado crear una tabla existente en ferreteria_db.db desde  db_codo.py 1 2023-06-29 16:55:02.690646
+Se ha intentado crear una tabla existente en ferreteria_db.db desde  db_codo.py 1 2023-07-05 13:30:03.704052
